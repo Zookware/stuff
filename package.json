@@ -26,7 +26,7 @@
     "phantomjs-prebuilt": "^2.1.16"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.6.8",
+    "@angular-devkit/build-angular": "^16.0.0",
     "@angular/animations": "^6.1.10",
     "@angular/common": "^6.1.10",
     "@angular/compiler": "^6.1.10",
@@ -38,9 +38,9 @@
     "@angular/platform-browser": "^6.1.10",
     "@angular/platform-browser-dynamic": "^6.1.10",
     "@microsoft/rush-stack-compiler": "^0.6.0",
-    "@microsoft/sp-build-web": "^1.9.1",
+    "@microsoft/sp-build-web": "^1.17.1",
     "@microsoft/sp-module-interfaces": "~1.4.1",
-    "@microsoft/sp-webpart-workbench": "^1.9.1",
+    "@microsoft/sp-webpart-workbench": "^1.12.1",
     "@types/chai": "3.4.34",
     "@types/mocha": "2.2.38",
     "ajv": "~5.2.2",
